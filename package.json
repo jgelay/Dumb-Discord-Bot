@@ -1,0 +1,25 @@
+{
+  "name": "DiscordBot",
+  "version": "1.3.0",
+  "description": "A simple discord bot that plays youtube music and other features.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "erlpack": "^0.1.2",
+    "node-opus": "^0.2.6",
+    "opusscript": "0.0.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "ytdl-core": "^0.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josiah Gelay",
+  "license": "ISC",
+  "optionalDependencies": {
+    "bufferutil": "^3.0.2"
+  }
+}
